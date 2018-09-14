@@ -1,0 +1,4 @@
+access_key = "ENTER YOUR ACCESSKEY"
+secret_key = "ENTER YOURS SECRETKEY HERE"
+aws_key_path = "~/.ssh/AWS-PRIVATE-KEY-FILENAME"
+aws_key_name = "ENTER YOURS PEMPFILE NAME HERE"
